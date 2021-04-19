@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C978CD55262E1C8A00B09530 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C978CD54262E1C8A00B09530 /* MyModel.swift */; };
 		C9CD5607262E12C300768957 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9CD5606262E12C300768957 /* AppDelegate.swift */; };
 		C9CD5609262E12C300768957 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9CD5608262E12C300768957 /* SceneDelegate.swift */; };
 		C9CD560B262E12C300768957 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9CD560A262E12C300768957 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C978CD54262E1C8A00B09530 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		C9CD5603262E12C300768957 /* LearningGitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningGitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9CD5606262E12C300768957 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9CD5608262E12C300768957 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				C9CD5611262E12C500768957 /* LaunchScreen.storyboard */,
 				C9CD5614262E12C500768957 /* Info.plist */,
 				C9CD560E262E12C500768957 /* Preview Content */,
+				C978CD54262E1C8A00B09530 /* MyModel.swift */,
 			);
 			path = LearningGitHub;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				C9CD5607262E12C300768957 /* AppDelegate.swift in Sources */,
 				C9CD5609262E12C300768957 /* SceneDelegate.swift in Sources */,
 				C9CD560B262E12C300768957 /* ContentView.swift in Sources */,
+				C978CD55262E1C8A00B09530 /* MyModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
